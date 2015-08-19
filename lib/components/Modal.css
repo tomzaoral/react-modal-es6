@@ -1,0 +1,22 @@
+.rmes6__overlay {
+  position: fixed;
+  top: 50px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.rmes6__overlay--bg {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.rmes6__content {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.rmes6__content--bg {
+  background-color: #ffffff;
+}
